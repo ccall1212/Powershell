@@ -1,4 +1,4 @@
-# **ComputerInfo**
+# **ComputerInfo.ps1**
 
 ## Description
 An interactive PowerShell script that performs comprehensive network connectivity tests and displays detailed system information. Perfect for troubleshooting network issues or getting a quick overview of your computer's status.
@@ -44,7 +44,9 @@ An interactive PowerShell script that performs comprehensive network connectivit
 
 Perfect for IT troubleshooting, system inventory, or daily network health checks.
 
-# **Crashinfo**
+---------------------------------------------------------------------------------------
+
+# **Crashinfo.ps1**
 
 ## Description
 A comprehensive PowerShell script that analyzes Windows Event Logs to identify system crashes, application failures, and hardware errors. Designed to help troubleshoot computer stability issues and track down the root causes of crashes and blue screens.
